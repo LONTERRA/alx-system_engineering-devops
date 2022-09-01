@@ -1,3 +1,2 @@
-# my first script
-# for opening current working directory
-pwd
+#!/bin/bash
+'pwd'
